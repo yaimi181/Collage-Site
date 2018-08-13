@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  background-image: url("https://i.pinimg.com/originals/30/26/43/3026431590cb64c73cd0002e024e2dba.jpg");
+  border: 10px;
+}
+
+div {
+    border-style: solid;
+}
+h2 {
+  margin: 5px 0;
+
+}
+#wrapper {
+  width: 500px;
+  margin: 0 auto;
+  background: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+input {
+  margin: 5px 10px;
+}
+button {
+  font-size: 12px;
+  padding: 10px;
+  margin: 15px 0;
+  color: white;
+  border: 0;
+  border-radius: 10px;
+  border-bottom: 3px solid #333;
+}
+#submit {
+  background: grey;
+}
+#answer {
+  border: 1px dashed #ccc;
+  background: #eee;
+  padding: 10px;
+}
